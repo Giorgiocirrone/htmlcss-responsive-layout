@@ -1,0 +1,73 @@
+/*Reset*/
+
+
+* {
+
+    margin: 0;
+
+    box-sizing: border-box;
+
+    padding: 0;
+
+}
+
+
+
+/*generics */
+
+body {
+
+    font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
+}
+
+
+/*utils*/
+
+.container {
+
+    max-width: 900px;
+    margin: 0 auto;
+
+}
+
+.flex {
+
+
+    display: flex;
+}
+
+
+
+
+
+/*Header*/
+
+header {
+
+
+    height: 80px;
+    background-color: #fff;
+    margin-bottom: 50px;
+
+}
+
+
+
+
+h1 {
+
+    color: orange;
+
+    font-family: 'Nerko One';
+    font-style: cursive;
+
+}
+
+
+
+footer {
+
+    height: 80px;
+
+    background-color: purple;
+}
