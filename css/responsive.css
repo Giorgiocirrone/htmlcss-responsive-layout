@@ -1,0 +1,13 @@
+/*Mobile first*/
+
+/*prima sezione*/
+@media (min-width:480px) {
+
+    #main-content {
+
+        justify-content: center;
+
+
+    }
+
+}

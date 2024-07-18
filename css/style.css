@@ -20,6 +20,13 @@ body {
     font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
 }
 
+h1 {
+
+    color: orange;
+    padding-left: 20px;
+
+}
+
 
 /*utils*/
 
@@ -32,9 +39,15 @@ body {
 
 .flex {
 
-
     display: flex;
 }
+
+img {
+
+    max-width: 100%;
+    float: left;
+}
+
 
 
 
@@ -45,22 +58,26 @@ body {
 header {
 
 
-    height: 80px;
     background-color: #fff;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 
+}
+
+#main-content {
+
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 
 
 
-h1 {
+.full-page {
 
-    color: orange;
 
-    font-family: 'Nerko One';
-    font-style: cursive;
-
+    background-color: lightgray;
 }
 
 
@@ -70,4 +87,25 @@ footer {
     height: 80px;
 
     background-color: purple;
+}
+
+.lista-informazioni {
+
+    width: 200px;
+    height: 315px;
+
+    background-color: orange;
+
+
+
+
+}
+
+
+
+.small {
+
+    max-width: 200px;
+
+    max-height: 130px;
 }
