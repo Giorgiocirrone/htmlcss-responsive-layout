@@ -4,9 +4,7 @@
 * {
 
     margin: 0;
-
     box-sizing: border-box;
-
     padding: 0;
 
 }
@@ -17,14 +15,8 @@
 
 body {
 
-    font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
-}
-
-h1 {
-
-    color: orange;
-    padding-left: 20px;
-
+    font-family: sans-serif;
+    background-color: rgba(211, 211, 211, 0.941)
 }
 
 
@@ -32,7 +24,7 @@ h1 {
 
 .container {
 
-    max-width: 900px;
+    max-width: 1200px;
     margin: 0 auto;
 
 }
@@ -40,12 +32,6 @@ h1 {
 .flex {
 
     display: flex;
-}
-
-img {
-
-    max-width: 100%;
-    float: left;
 }
 
 
@@ -57,55 +43,21 @@ img {
 
 header {
 
-
     background-color: #fff;
-    margin-bottom: 30px;
-
-}
-
-#main-content {
-
-    height: 80px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-
-
-
-.full-page {
-
-
-    background-color: lightgray;
-}
-
-
-
-footer {
-
-    height: 80px;
-
-    background-color: purple;
-}
-
-.lista-informazioni {
-
-    width: 200px;
-    height: 315px;
-
-    background-color: orange;
-
-
 
 
 }
 
+/*contenitore titolo principale Giallo Booleano*/
 
+.title {
 
-.small {
+    height: 100 px;
+    color: orange;
 
-    max-width: 200px;
+    font-style: italic;
 
-    max-height: 130px;
+    padding: 20px;
+    padding-top: 20px;
+
 }
