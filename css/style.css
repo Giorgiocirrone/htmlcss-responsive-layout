@@ -34,6 +34,12 @@ body {
 }
 
 
+#video {
+
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
 
 .first-text {
 
@@ -45,4 +51,21 @@ body {
     padding-left: 10px;
 
 
+}
+
+.second-text {
+
+
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+
+.istruzioni {
+
+    height: 315px;
+
+    width: 260px;
+
+    background-color: blue;
 }
