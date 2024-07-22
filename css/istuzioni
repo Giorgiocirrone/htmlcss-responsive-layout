@@ -39,3 +39,119 @@ INFO
 
 
 share embed e tag i frame 
+
+
+
+
+come impostare l'esercizio 
+
+
+
+
+intestazione 
+
+
+sezione you tube e preparazione dentro un unico div
+
+
+lista logo dentro un divi 
+
+immagine 
+
+
+lorem ipsum con immagine ultima sezione 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*/header>
+
+        <div class="title">
+
+            <h1>Giallo Booleano</h1>
+
+        </div>
+
+    </header>
+
+    <div class="container">
+
+        <section class="Dolce">
+
+            <div class="Index">
+                <h1> Tiramisù (Dolce Tradizionale)</h1>
+            </div>
+
+
+            <div class="flex">
+
+                <div class="youtube">
+
+
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/JVT900H6s0g?si=WnfMXlx4iiEzFuY4"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+                </div>
+
+                <div class="Informazioni"></div>
+
+            </div>
+
+        </section>
+
+
+        <section class="pubblicità ">
+
+            <div class="container">
+                <img src="image/banner.png" alt="">
+            </div>
+
+
+
+        </section>
+
+
+        <main>
+
+            <h2> Presentation</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex obcaecati, nihil quibusdam ducimus dolores
+                dolore libero quod eaque nostrum voluptate id saepe velit magni. Assumenda, voluptatem veniam. Earum,
+                eius iste.
+                Fugit asperiores ipsa nisi accusamus doloribus! Eos tempore, ex placeat dolor nihil odio eligendi
+                corporis reprehenderit eum earum tempora dolorum atque rerum accusamus a veniam. Itaque quisquam
+                officiis deleniti temporibus.
+                Itaque natus mollitia pariatur exercitationem eius, tenetur aspernatur amet rem reprehenderit labore
+                voluptates beatae sunt error, odit incidunt ad! Mollitia illo nihil labore delectus dolor blanditiis
+                nesciunt consequuntur rerum adipisci?
+                Magnam fuga ratione assumenda, asperiores beatae quo eius similique dignissimos molestiae iste id minima
+                iure voluptatibus consectetur. Cupiditate dolorem facere ex, et ab consectetur veritatis possimus
+                laborum illum odio adipisci.</p>
+
+
+        </main>
+
+    </div>
+
+    <footer>
+
+        <article>
+
+        </article>
+
+        <div id="lista-link"></div>
+
+
+    </footer>
