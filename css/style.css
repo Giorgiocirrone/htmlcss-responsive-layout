@@ -24,7 +24,7 @@ body {
 
 .container {
 
-    max-width: 900px;
+    max-width: 800px;
     margin: 0 auto;
 
 }
@@ -68,4 +68,70 @@ body {
     width: 260px;
 
     background-color: blue;
+}
+
+img {
+
+    width: 100%;
+}
+
+ul {
+
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 20px;
+
+
+}
+
+a {
+
+    color: #fff;
+
+}
+
+
+
+
+footer {
+
+    height: 100px;
+    background-color: blueviolet;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    font-size: 14px;
+}
+
+
+#pubblicità {
+
+    padding-bottom: 20px;
+}
+
+h2 {
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+#presentation {
+
+    padding-bottom: 50px;
+}
+
+#dolce {
+
+
+
+    float: left;
+
+    max-width: 200px;
+    padding-right: 3px;
+    padding-bottom: 12px;
+
+}
+
+
+p {
+    line-height: 1;
 }
