@@ -1,13 +1,18 @@
 /*Mobile first*/
 
 /*prima sezione*/
-@media (min-width:480px) {
+@media (min-width:768px) {
 
-    #main-content {
-
-        justify-content: center;
+    .you-tube {
 
 
+        flex-direction: column;
+
+    }
+
+    .istruzioni {
+
+        width: 560px;
     }
 
 }
